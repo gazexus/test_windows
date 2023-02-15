@@ -1,3 +1,6 @@
 hello git!!!
+<<<<<<< HEAD
 it is ne line.
 123456789
+=======
+>>>>>>> parent of bb6ab7e (add new string)
